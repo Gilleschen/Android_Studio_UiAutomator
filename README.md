@@ -2,8 +2,8 @@
 #### 使用說明：
 1. 測試裝置需先透過Android Studio安裝app-debug-androidTest.apk
 
-2. 下載UiAutomaotr.xlsm
-
+2. 下載UiAutomaotr.xlsm (啟動巨集)
+ 
     2.1 UiAutomator.xlsm說明:infor工作表輸入測試裝置UDID、Junit Class所屬的PackageName、Junit Class名稱、@Test名稱，範例如下圖：
     
     ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/function.png)
