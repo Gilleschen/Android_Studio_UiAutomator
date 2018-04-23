@@ -6,7 +6,7 @@
  
     2.1 UiAutomator.xlsm說明:infor工作表輸入測試裝置UDID、Junit Class所屬的PackageName、Junit Class名稱、@Test名稱，範例如下圖：
     
-    ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/function.png)
+    ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/%E8%A1%A8%E6%A0%BC%E8%AA%AA%E6%98%8E.png)
 
 
 3. 執行增益集，如下圖：
