@@ -4,8 +4,14 @@
    ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/install_apk.png)
 
 2. 下載UiAutomaotr.xlsm (啟動巨集)
- 
-    2.1 UiAutomator.xlsm說明:infor工作表輸入測試裝置UDID、Junit Class所屬的PackageName、Junit Class名稱、@Test名稱，範例如下圖：
+
+    2.1 於C:\建立TUTK_QA_TestTool資料夾 (C:\TUTK_QA_TestTool)
+    
+    2.2 TUTK_QA_TestTool中建立TestTool資料夾
+    
+    2.3 將UiAutomaotr.xlsm 放至TestTool資料夾 (C:\TUTK_QA_TestTool\TestTool\UiAutomaotr.xlsm )(檔名及副檔名請勿更改)
+    
+    2.4 infor工作表輸入測試裝置UDID、Junit Class所屬的PackageName、Junit Class名稱及@Test名稱，範例如下圖：
     
     ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/%E8%A1%A8%E6%A0%BC%E8%AA%AA%E6%98%8E.png)
 
