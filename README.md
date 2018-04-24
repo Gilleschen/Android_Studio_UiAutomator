@@ -1,6 +1,7 @@
 # Android_Studio_UiAutomator
 #### 使用說明：
 1. 測試裝置需先透過Android Studio安裝app-debug.apk及app-debug-androidTest.apk，如下圖：
+
    ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/install_apk.png)
 
 2. 下載UiAutomaotr.xlsm (啟動巨集)
