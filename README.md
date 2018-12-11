@@ -11,7 +11,19 @@ Step 1. 測試裝置需先透過Android Studio安裝app-debug.apk及app-debug-an
 
    ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/install_apk.png)
     
-Step 2. 啟動UiAutomaotr.xlsm，點擊infor工作表輸入測試裝置UDID、Junit Class所屬的PackageName、Junit Class名稱及@Test名稱，範例如下圖：
+Step 2. 啟動UiAutomaotr.xlsm，點擊infor工作表輸入以下資訊：
+
+* 測試裝置UDID
+
+* Junit Class所屬的PackageName
+
+* Junit Class名稱及@Test名稱
+
+* 測試前是否清除APP暫存資料
+
+* APP Package Name
+
+範例如下圖：
 
 ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/%E8%A1%A8%E6%A0%BC%E8%AA%AA%E6%98%8E.png)
 
