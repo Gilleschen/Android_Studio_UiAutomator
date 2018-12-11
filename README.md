@@ -1,5 +1,9 @@
 # 使用說明
 
+#### Framework
+
+![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/framework.png)
+
 #### 使用前說明
 
 * 下載UiAutomaotr.xlsm 至C:\TUTK_QA_TestTool\TestTool資料夾
