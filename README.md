@@ -4,7 +4,7 @@
 
 * 下載UiAutomaotr.xlsm 至C:\TUTK_QA_TestTool\TestTool資料夾
 
-#### 執行步驟：
+#### 執行步驟
 Step 1. 測試裝置需先透過Android Studio安裝app-debug.apk及app-debug-androidTest.apk，如下圖：
 
    ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/install_apk.png)
