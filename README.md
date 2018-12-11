@@ -17,7 +17,7 @@ Step 2. 啟動UiAutomaotr.xlsm，點擊infor工作表輸入測試裝置UDID、Ju
 
 Step 3. 執行增益集，如下圖：
 
-    ![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/%E5%A2%9E%E7%9B%8A%E9%9B%86.PNG)
+![image](https://github.com/Gilleschen/Android_Studio_UiAutomator/blob/master/Picture/%E5%A2%9E%E7%9B%8A%E9%9B%86.PNG)
     
 #### 測試執行視窗，如下圖：
 
