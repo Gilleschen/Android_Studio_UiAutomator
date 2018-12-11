@@ -11,15 +11,17 @@ Step 1. 測試裝置需先透過Android Studio安裝app-debug.apk及app-debug-an
     
 Step 2. 啟動UiAutomaotr.xlsm，點擊infor工作表輸入以下資訊：
 
-* 測試裝置UDID
+* Device UDID：設定測試裝置UDID
 
-* Junit Class所屬的PackageName
+* PackageName：輸入Junit Class所屬的PackageName 
 
-* Junit Class名稱及@Test名稱
+* Class Name：輸入Junit Class名稱
 
-* 測試前是否清除APP暫存資料
+* Case Name：輸入@Test名稱
 
-* APP Package Name
+* Reset APP Data：測試前是否清除APP暫存資料，輸入TRUE/FALSE
+
+* APP Package Name：輸入測試之APP Package Name
 
 範例如下圖：
 
